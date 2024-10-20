@@ -1,0 +1,117 @@
+.home-container {
+    height: 100vh;
+    width: 100%;
+}
+.contact-card {
+    display: flex;
+    flex-direction: row;
+    height: 5%;
+    width: 100%;
+    background-color:#165315;
+    color: white;
+    font-family: "Inter";
+    font-size: 10%;
+    margin-bottom: 0px;
+    font-size: 14px;
+    justify-content: center;
+    align-items: center;
+}
+.contact-para {
+    padding-left: 20%;
+}
+.plant-button {
+    font-family: "Poppins";
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+    width: 60px;
+    color: white;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #165315;
+    border: none;
+
+
+}
+.Pots-button {
+    font-family: "Poppins";
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: center;
+    width: 60px;
+    color: grey;
+    gap: 0px;
+    opacity: 0px;
+    background-color: transparent;
+    border: 1px solid rgb(197, 195, 195);
+    margin-left: 2%;
+
+}
+.plant-button-card {
+    margin-top: 2%;
+    margin-left: 5%;
+}
+.home-des {
+    color: #838383;
+    font-family:"Poppins";
+    font-size: 15px;
+    padding-left: 5%;
+}
+.nursery {
+    font-family:"Poppins";
+    font-size: 25px;
+    padding-left: 5%;
+}
+.filter {
+    height: 90%;
+    width: 30%;
+    background-color: #F0FFE5;
+}
+.filter-value {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 10px;
+    color:#6E6E6E;
+    padding-right: 8%;
+    padding-left: 8%;
+    padding-bottom: 0px;
+    
+}
+.horizontal-line {
+    width: 82%;
+    margin-bottom: 0px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+}
+.plantList-container {
+    margin-top: 4%;
+}
+.productNum {
+    padding-left: 5%;
+    color:#838383;
+}
+.sortBy{
+    margin-left: 2%;
+    background-color:#165315;
+    border: none;
+    color: white;
+    height:20px ;
+    margin-top: 2%;
+}
+.plant-list-box {
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+}
+.sort-by-box {
+    display: flex;
+    flex-direction: row;
+}
+
+    

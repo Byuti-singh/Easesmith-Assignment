@@ -1,0 +1,25 @@
+.nursery-img {
+    height: 10%;
+    width: 10%;
+}
+.nursery-img {
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+   
+}
+.image-des{
+    color: #838383;
+    font-size: 12px;
+    max-width: 80%;
+ }
+.nursery-list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+    
+}
+
+    

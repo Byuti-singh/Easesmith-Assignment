@@ -1,0 +1,43 @@
+.thank-you {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:#F0FFE5;
+    height: 100vh;
+    
+}
+
+.thank-you-img {
+    height: 20%;
+    width: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cart-class {
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: 400;
+    color:#0F4811;
+    
+}
+
+.thank-you-btn {
+    background-color: #165315;
+    color: white;
+    padding: 10px;
+    border: none;
+    font-size: 15px;
+}
+
+hr {
+    margin: 5px 0;
+    width: 70%;
+  }
+.congratulation-msg {
+      color:#165315;
+      font-family: "Poppins";
+  }
+  

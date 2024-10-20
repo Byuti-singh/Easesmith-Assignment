@@ -1,0 +1,27 @@
+.plant-list-item {
+    list-style-type: none;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    grid-template-rows: repeat(2, 1fr); 
+    gap: 60px; 
+}
+.view-more {
+    display: flex;
+    justify-content: center;
+    margin-top: 7%;
+    justify-content:space-evenly;
+    border: 2px solid rgb(237, 245, 237);
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgb(237, 245, 237);
+   
+}
+.view-more-button {
+    background-color:#165315;
+    border: none;
+    color: white;
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    box-shadow: 1px, 1px,1px 1px #838383;
+}
